@@ -6,7 +6,7 @@ txtdir=txtfiles
 
 # error logs and final output
 [ -r errors.txt ] && rm errors.txt
-[ -r BigList.txt ] && rm BigList.txt
+echo "Subj	Date	SoundStim	arousal1.RT	arousal1.RESP	valence1.RT	valence1.RESP" > BigList.txt
 
 # for each SoundsRating
 for d in /mnt/B/bea_res/Data/Tasks/CogEmoSoundsRating/Basic/*/*/Raw; do

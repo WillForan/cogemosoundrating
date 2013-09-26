@@ -1,3 +1,4 @@
+Subj	Date	SoundStim	arousal1.RT	arousal1.RESP	valence1.RT	valence1.RESP
 10370	20120918	 115.wav	 5719	 4	 12587	 6	
 10370	20120918	 627.wav	 3419	 6	 2984	 5	
 10370	20120918	 709.wav	 3129	 4	 5865	 7	
