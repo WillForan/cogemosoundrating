@@ -1,0 +1,17 @@
+/mnt/B/bea_res/Data/Tasks/CogEmoSoundsRating/Basic/10892/20111217/Raw has 0 txt files!
+/mnt/B/bea_res/Data/Tasks/CogEmoSoundsRating/Basic/10893/20111111/Raw has 0 txt files!
+/mnt/B/bea_res/Data/Tasks/CogEmoSoundsRating/Basic/10894/20111117/Raw has 0 txt files!
+/mnt/B/bea_res/Data/Tasks/CogEmoSoundsRating/Basic/10895/20111117/Raw has 0 txt files!
+/mnt/B/bea_res/Data/Tasks/CogEmoSoundsRating/Basic/10900/20111130/Raw has 0 txt files!
+/mnt/B/bea_res/Data/Tasks/CogEmoSoundsRating/Basic/10901/20111201/Raw has 0 txt files!
+/mnt/B/bea_res/Data/Tasks/CogEmoSoundsRating/Basic/10902/20111202/Raw has 0 txt files!
+/mnt/B/bea_res/Data/Tasks/CogEmoSoundsRating/Basic/10903/20111205/Raw has 0 txt files!
+/mnt/B/bea_res/Data/Tasks/CogEmoSoundsRating/Basic/10904/20111205/Raw has 0 txt files!
+/mnt/B/bea_res/Data/Tasks/CogEmoSoundsRating/Basic/10910/20111221/Raw has 0 txt files!
+/mnt/B/bea_res/Data/Tasks/CogEmoSoundsRating/Basic/10911/20111229/Raw has 0 txt files!
+/mnt/B/bea_res/Data/Tasks/CogEmoSoundsRating/Basic/10913/20120104/Raw has 0 txt files!
+/mnt/B/bea_res/Data/Tasks/CogEmoSoundsRating/Basic/10917/20120211/Raw has 0 txt files!
+/mnt/B/bea_res/Data/Tasks/CogEmoSoundsRating/Basic/10932/20120202/Raw has 0 txt files!
+/mnt/B/bea_res/Data/Tasks/CogEmoSoundsRating/Basic/10934/20120207/Raw has 0 txt files!
+/mnt/B/bea_res/Data/Tasks/CogEmoSoundsRating/Basic/10938/20120221/Raw has 0 txt files!
+/mnt/B/bea_res/Data/Tasks/CogEmoSoundsRating/Basic/10945/20120302/Raw has 0 txt files!
