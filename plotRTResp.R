@@ -1,6 +1,7 @@
 library(ggplot2)
 library(reshape2)
-resps <- read.table('BigList.txt',header=T)
+#resps <- read.table('BigList.txt',header=T)
+resps <- read.table('BigList_all.txt',header=T)
 names(resps) <- c('Subj','Date','Sound','RT.arousal' , 'RESP.arousal','RT.valence','RESP.valence')
 resps$Sound <- gsub('.wav','',resps$Sound)
 
